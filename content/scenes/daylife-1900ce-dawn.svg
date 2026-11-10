@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 180" role="img" aria-labelledby="t d" aria-label="Morning water">
+<title id="t">Morning water</title>
+<desc id="d">A woman fills a bucket at an iron hand pump in a small American town at sunrise.</desc>
+<defs><linearGradient id="s" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#f4a98a"/><stop offset="1" stop-color="#ffe9b8"/></linearGradient><linearGradient id="g" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#8a8a5a"/><stop offset="1" stop-color="#5f6840"/></linearGradient><radialGradient id="sun"><stop offset="0" stop-color="#fff0b0" stop-opacity=".9"/><stop offset="1" stop-color="#fff0b0" stop-opacity="0"/></radialGradient></defs>
+<rect width="320" height="180" fill="url(#s)"/><circle cx="64" cy="108" r="44" fill="url(#sun)"/><circle cx="64" cy="108" r="14" fill="#fff0a0"/>
+<g fill="#6c5448"><rect x="120" y="70" width="46" height="62"/><path d="M116 70 l27 -16 l27 16z" fill="#4c3a34"/><rect x="172" y="84" width="38" height="48"/><path d="M168 84 l23 -16 l23 16z" fill="#4c3a34"/><rect x="222" y="66" width="52" height="66"/><path d="M218 66 l30 -16 l30 16z" fill="#4c3a34"/><rect x="276" y="80" width="40" height="52"/><path d="M272 80 l24 -16 l24 16z" fill="#4c3a34"/></g>
+<g fill="#ffd98a"><rect x="128" y="94" width="6" height="8"/><rect x="140" y="94" width="6" height="8"/><rect x="182" y="102" width="6" height="8"/><rect x="232" y="90" width="6" height="8"/><rect x="244" y="90" width="6" height="8"/><rect x="286" y="100" width="6" height="8"/></g>
+<rect y="132" width="320" height="48" fill="url(#g)"/>
+<rect x="196" y="136" width="8" height="22" fill="#3a3a44"/><path d="M200 140 h-16 q-4 0 -4 6" stroke="#3a3a44" stroke-width="4" fill="none"/><path d="M205 142 h4 v6 h-4z" fill="#3a3a44"/>
+<path d="M176 160 h12 l-2 -12 h-8z" fill="#8a8a96"/><path d="M178 148 q6 -8 12 0" stroke="#5c5c66" stroke-width="1.5" fill="none"/>
+<g fill="#3a2a4a" transform="translate(150 168) scale(1.9)"><circle cx="0" cy="-17" r="3.4"/><path d="M-3.5 -13 h7 l2 11 h-11z" /><rect x="-3" y="-3" width="2.5" height="6"/><rect x="0.5" y="-3" width="2.5" height="6"/></g><path d="M138 150 q10 -6 22 4" stroke="#3a2a4a" stroke-width="3" fill="none"/>
+</svg>

@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 180" role="img" aria-labelledby="t d" aria-label="A campfire at dusk">
+<title id="t">A campfire at dusk</title>
+<desc id="d">Foragers sit in a circle around a campfire as the sky turns purple and orange.</desc>
+<defs><linearGradient id="s" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#5a3d78"/><stop offset="1" stop-color="#f08a4c"/></linearGradient><linearGradient id="g" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#4c4a3c"/><stop offset="1" stop-color="#2c2a22"/></linearGradient><radialGradient id="glow"><stop offset="0" stop-color="#ffb347" stop-opacity=".9"/><stop offset="1" stop-color="#ffb347" stop-opacity="0"/></radialGradient></defs>
+<rect width="320" height="180" fill="url(#s)"/><circle cx="40" cy="24" r="1" fill="#fff6d8"/><circle cx="110" cy="40" r="0.8" fill="#fff6d8"/><circle cx="190" cy="18" r="1" fill="#fff6d8"/><circle cx="270" cy="32" r="0.8" fill="#fff6d8"/><circle cx="300" cy="60" r="1" fill="#fff6d8"/>
+<path d="M0 118 Q80 90 150 112 T320 100 V180 H0z" fill="#3b2f48"/><rect y="132" width="320" height="48" fill="url(#g)"/>
+<circle cx="160" cy="146" r="64" fill="url(#glow)"/>
+<path d="M150 150 q-8 -18 4 -30 q2 10 8 6 q10 12 -2 24z" fill="#ff8a1c"/><path d="M155 150 q-4 -10 3 -18 q8 8 1 18z" fill="#ffe27a"/>
+<path d="M138 152 l36 -4 M140 148 l32 6" stroke="#4a2c14" stroke-width="3" stroke-linecap="round"/>
+<g fill="#1f1a22" transform="translate(90 158) scale(1.5)"><circle cx="0" cy="-17" r="3.4"/><path d="M-3.5 -13 h7 l2 11 h-11z" /><rect x="-3" y="-3" width="2.5" height="6"/><rect x="0.5" y="-3" width="2.5" height="6"/></g><g fill="#1f1a22" transform="translate(228 158) scale(1.5)"><circle cx="0" cy="-17" r="3.4"/><path d="M-3.5 -13 h7 l2 11 h-11z" /><rect x="-3" y="-3" width="2.5" height="6"/><rect x="0.5" y="-3" width="2.5" height="6"/></g><g fill="#1f1a22" transform="translate(118 168) scale(1.2)"><circle cx="0" cy="-17" r="3.4"/><path d="M-3.5 -13 h7 l2 11 h-11z" /><rect x="-3" y="-3" width="2.5" height="6"/><rect x="0.5" y="-3" width="2.5" height="6"/></g><g fill="#1f1a22" transform="translate(204 168) scale(1.2)"><circle cx="0" cy="-17" r="3.4"/><path d="M-3.5 -13 h7 l2 11 h-11z" /><rect x="-3" y="-3" width="2.5" height="6"/><rect x="0.5" y="-3" width="2.5" height="6"/></g>
+<g fill="#ffcf6a"><circle cx="170" cy="112" r="1.4"/><circle cx="150" cy="104" r="1.2"/><circle cx="176" cy="98" r="1"/></g>
+</svg>

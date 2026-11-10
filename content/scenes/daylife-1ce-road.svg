@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 180" role="img" aria-labelledby="t d" aria-label="A Roman road">
+<title id="t">A Roman road</title>
+<desc id="d">A stone-paved road runs towards the horizon past a milestone, with a walker and a horse cart.</desc>
+<defs><linearGradient id="s" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#7cc3ea"/><stop offset="1" stop-color="#e6f4f6"/></linearGradient><linearGradient id="g" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#9bb069"/><stop offset="1" stop-color="#6f8a46"/></linearGradient><linearGradient id="r" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#b9aea0"/><stop offset="1" stop-color="#8c8276"/></linearGradient></defs>
+<rect width="320" height="180" fill="url(#s)"/><path d="M0 84 Q60 50 120 76 T240 70 T320 80 V180 H0z" fill="#b5c18a"/><path d="M0 102 Q90 78 170 98 T320 90 V180 H0z" fill="#97ab68"/><rect y="96" width="320" height="84" fill="url(#g)"/>
+<path d="M152 90 L168 90 L290 180 H30z" fill="url(#r)"/><path d="M160 90 L160 180" stroke="#7a7064" stroke-width="1" stroke-dasharray="6 5" opacity=".0"/>
+<g stroke="#7a7064" stroke-width="1" opacity=".7"><path d="M158 100 H162 M154 112 H166 M148 128 H172 M140 150 H180 M126 176 H194"/></g>
+<path d="M60 150 l8 -12 h6 l4 12z" fill="#d4c9b8"/><rect x="60" y="150" width="22" height="6" fill="#a49a8a"/>
+<g><rect x="205" y="132" width="32" height="14" fill="#8c5a34"/><rect x="237" y="136" width="14" height="3" fill="#5e4a34"/><circle cx="214" cy="150" r="7" fill="none" stroke="#3a2a1c" stroke-width="2"/><circle cx="230" cy="150" r="7" fill="none" stroke="#3a2a1c" stroke-width="2"/>
+<ellipse cx="262" cy="136" rx="9" ry="5" fill="#6a3f26"/><rect x="268" y="128" width="3" height="10" transform="rotate(25 270 132)" fill="#6a3f26"/><rect x="256" y="138" width="2" height="9" fill="#4a2c18"/><rect x="266" y="138" width="2" height="9" fill="#4a2c18"/></g>
+<g fill="#7a3a2a" transform="translate(120 162) scale(1.8)"><circle cx="0" cy="-17" r="3.4"/><path d="M-3.5 -13 h7 l2 11 h-11z" /><rect x="-3" y="-3" width="2.5" height="6"/><rect x="0.5" y="-3" width="2.5" height="6"/></g>
+</svg>

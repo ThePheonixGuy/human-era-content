@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 200" width="320" height="200" role="img" aria-label="An uncrewed capsule with solar panels flying past the Moon with Earth small in the distance">
+<title>Moon exploration now: an uncrewed capsule with solar panels flying past the Moon, Earth small in the distance</title>
+<defs><radialGradient id="m" cx=".4" cy=".35" r=".8"><stop offset="0" stop-color="#e4e6ee"/><stop offset="1" stop-color="#7a7e90"/></radialGradient>
+<radialGradient id="e" cx=".35" cy=".35" r=".8"><stop offset="0" stop-color="#7fd0ff"/><stop offset="1" stop-color="#1c55c0"/></radialGradient></defs>
+<rect width="320" height="200" fill="#05081c"/><g fill="#fff"><circle cx="30" cy="30" r="1.2"/><circle cx="130" cy="20" r="1"/><circle cx="170" cy="70" r="1.4"/><circle cx="300" cy="30" r="1"/><circle cx="210" cy="24" r="1.2"/><circle cx="20" cy="110" r="1"/></g>
+<circle cx="86" cy="150" r="82" fill="url(#m)"/><g fill="#9296a8" opacity=".7"><circle cx="60" cy="130" r="12"/><circle cx="110" cy="170" r="9"/><circle cx="84" cy="188" r="6"/><circle cx="120" cy="120" r="7"/></g>
+<circle cx="268" cy="44" r="9" fill="url(#e)"/>
+<g transform="rotate(-18 200 100)"><path d="M180 88h40l-8 24h-24z" fill="#f4f7ff"/><rect x="178" y="112" width="44" height="8" rx="2" fill="#7a7e90"/><path d="M164 96h-32v12h32zM236 96h32v12h-32z" fill="#2d6bd6"/><path d="M164 96h-32M236 96h32" stroke="#bfe0ff" stroke-width="1"/><rect x="168" y="100" width="12" height="4" fill="#7a7e90"/><rect x="220" y="100" width="12" height="4" fill="#7a7e90"/><path d="M190 120l-4 14h28l-4-14z" fill="#ffb347" opacity=".9"/></g>
+</svg>

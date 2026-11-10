@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 180" role="img" aria-labelledby="t d" aria-label="Wild grain and a flint sickle">
+<title id="t">Wild grain and a flint sickle</title>
+<desc id="d">Stalks of wild cereal, a curved sickle set with flint blades and a stone bowl.</desc>
+<defs><linearGradient id="s" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#efd9a8"/><stop offset="1" stop-color="#d9bd86"/></linearGradient><linearGradient id="st" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#a6a29a"/><stop offset="1" stop-color="#7b776f"/></linearGradient></defs>
+<rect width="320" height="180" fill="url(#s)"/><rect y="132" width="320" height="48" fill="#b79a68"/>
+<g stroke="#8d6d2a" stroke-width="2" fill="none"><path d="M40 146 Q42 100 36 62"/><path d="M58 146 Q60 96 64 58"/><path d="M76 146 Q74 104 84 68"/><path d="M94 146 Q98 108 92 74"/></g>
+<g fill="#d8a93c"><ellipse cx="36" cy="60" rx="4" ry="10"/><ellipse cx="64" cy="56" rx="4" ry="10"/><ellipse cx="84" cy="66" rx="4" ry="10"/><ellipse cx="92" cy="72" rx="4" ry="10"/><ellipse cx="42" cy="76" rx="3" ry="8"/><ellipse cx="58" cy="76" rx="3" ry="8"/></g>
+<path d="M150 122 Q180 70 252 84" stroke="#7a5230" stroke-width="7" fill="none" stroke-linecap="round"/>
+<g fill="#6c7078"><path d="M164 100 l6 -7 l3 7z"/><path d="M178 90 l7 -6 l2 8z"/><path d="M194 83 l8 -4 l0 8z"/><path d="M210 80 l8 -2 l-1 8z"/><path d="M226 79 l8 0 l-3 8z"/></g>
+<path d="M232 156 q40 40 80 0 v-14 h-80z" fill="url(#st)"/><ellipse cx="272" cy="142" rx="40" ry="7" fill="#5f5b54"/><g fill="#d8a93c"><circle cx="258" cy="142" r="2"/><circle cx="268" cy="143" r="2"/><circle cx="279" cy="142" r="2"/><circle cx="288" cy="143" r="2"/></g>
+</svg>

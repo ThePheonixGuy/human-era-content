@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 180" role="img" aria-labelledby="t d" aria-label="An oil lamp at dusk">
+<title id="t">An oil lamp at dusk</title>
+<desc id="d">A clay oil lamp burns on a table beside an amphora, with dusk in an arched window.</desc>
+<defs><linearGradient id="s" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#4a3a78"/><stop offset="1" stop-color="#e98a56"/></linearGradient><linearGradient id="w" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#6b4630"/><stop offset="1" stop-color="#3b2418"/></linearGradient><radialGradient id="glow"><stop offset="0" stop-color="#ffcf6a" stop-opacity=".9"/><stop offset="1" stop-color="#ffcf6a" stop-opacity="0"/></radialGradient></defs>
+<rect width="320" height="180" fill="#3a2418"/><rect x="0" y="0" width="320" height="180" fill="url(#w)" opacity=".5"/>
+<path d="M200 140 V54 a40 40 0 0 1 80 0 V140z" fill="#2a1c14"/><path d="M208 140 V56 a32 32 0 0 1 64 0 V140z" fill="url(#s)"/><circle cx="236" cy="36" r="0.8" fill="#fff6d8"/><circle cx="254" cy="48" r="0.7" fill="#fff6d8"/>
+<g fill="#2a1c14"><path d="M208 112 q16 -14 32 -4 t32 -4 V140 H208z"/></g>
+<circle cx="110" cy="116" r="72" fill="url(#glow)" opacity=".8"/>
+<rect x="30" y="132" width="170" height="10" fill="#8a5a38"/><rect x="40" y="142" width="8" height="38" fill="#6a4228"/><rect x="182" y="142" width="8" height="38" fill="#6a4228"/>
+<path d="M92 130 q18 -12 40 -2 l8 -3 l-2 8 q-20 8 -46 2z" fill="#b9714a"/><path d="M138 125 l12 -2 l-9 8z" fill="#b9714a"/><ellipse cx="108" cy="124" rx="6" ry="2" fill="#7a4428"/>
+<path d="M150 121 q-6 -12 2 -20 q2 7 6 5 q6 8 -2 15z" fill="#ff9a1c"/><path d="M152 120 q-3 -7 1 -12 q5 5 1 12z" fill="#fff0a0"/>
+<path d="M54 132 q-12 -2 -12 -24 q0 -8 6 -8 h8 q6 0 6 8 q0 22 -12 24z" fill="#a4573a"/><rect x="46" y="94" width="12" height="6" fill="#a4573a"/>
+<path d="M170 132 q10 -20 20 0z" fill="#d9bf98"/>
+</svg>

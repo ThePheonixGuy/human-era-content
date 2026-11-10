@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 200" width="320" height="200" role="img" aria-label="A laptop and a phone both showing lines of written text">
+<title>Writing now: a laptop and a phone showing lines of text on glowing screens</title>
+<defs><linearGradient id="b" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#1b3a8a"/><stop offset="1" stop-color="#0b1236"/></linearGradient>
+<linearGradient id="sc" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#f4fbff"/><stop offset="1" stop-color="#cfe9ff"/></linearGradient></defs>
+<rect width="320" height="200" fill="url(#b)"/>
+<rect x="52" y="40" width="170" height="108" rx="8" fill="#2a2f45"/><rect x="60" y="48" width="154" height="92" rx="3" fill="url(#sc)"/>
+<g fill="#3b4a6b"><rect x="70" y="58" width="90" height="6" rx="3"/><rect x="70" y="72" width="130" height="4" rx="2"/><rect x="70" y="82" width="120" height="4" rx="2"/><rect x="70" y="92" width="130" height="4" rx="2"/><rect x="70" y="102" width="100" height="4" rx="2"/><rect x="70" y="112" width="124" height="4" rx="2"/><rect x="70" y="122" width="80" height="4" rx="2"/></g>
+<path d="M30 148h214l-10 14H40z" fill="#8a93b5"/>
+<rect x="238" y="70" width="52" height="96" rx="9" fill="#2a2f45"/><rect x="243" y="78" width="42" height="80" rx="3" fill="url(#sc)"/>
+<g fill="#3b4a6b"><rect x="248" y="86" width="26" height="4" rx="2"/><rect x="248" y="96" width="32" height="3" rx="1.5"/><rect x="248" y="104" width="30" height="3" rx="1.5"/><rect x="248" y="112" width="32" height="3" rx="1.5"/><rect x="248" y="120" width="24" height="3" rx="1.5"/><rect x="248" y="128" width="30" height="3" rx="1.5"/></g>
+</svg>

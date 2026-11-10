@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 200" width="320" height="200" role="img" aria-label="A tractor working long green crop rows under a bright sky">
+<title>Agriculture now: a tractor working long machine-planted crop rows</title>
+<defs><linearGradient id="s" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#3aa0ff"/><stop offset="1" stop-color="#bfe8ff"/></linearGradient>
+<linearGradient id="f" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#7fd46a"/><stop offset="1" stop-color="#2f8f47"/></linearGradient></defs>
+<rect width="320" height="200" fill="url(#s)"/><circle cx="60" cy="40" r="20" fill="#fff6a8"/>
+<ellipse cx="230" cy="48" rx="34" ry="9" fill="#fff" opacity=".85"/><ellipse cx="200" cy="54" rx="22" ry="7" fill="#fff" opacity=".85"/>
+<path d="M0 100H320V200H0z" fill="url(#f)"/><path d="M0 100Q160 92 320 100V108H0z" fill="#5fb85a"/>
+<g stroke="#1f6e36" stroke-width="3" opacity=".55"><path d="M160 102L-20 200M160 102L40 200M160 102L100 200M160 102L160 200M160 102L220 200M160 102L280 200M160 102L340 200"/></g>
+<g><rect x="190" y="132" width="70" height="26" rx="5" fill="#e8402f"/><rect x="226" y="114" width="30" height="24" rx="4" fill="#ff6b52"/><rect x="231" y="119" width="20" height="14" rx="2" fill="#bfe8ff"/>
+<circle cx="204" cy="162" r="16" fill="#23232b"/><circle cx="204" cy="162" r="7" fill="#aab"/><circle cx="252" cy="166" r="11" fill="#23232b"/><circle cx="252" cy="166" r="5" fill="#aab"/><rect x="190" y="128" width="30" height="6" fill="#a82a1d"/></g>
+</svg>

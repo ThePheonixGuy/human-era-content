@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 200" width="320" height="200" role="img" aria-label="Many devices, a phone, a laptop and a watch, linked to a glowing globe by lines">
+<title>The web now: phones, laptops and watches linked to a glowing globe by network lines</title>
+<defs><linearGradient id="b" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#1b3a8a"/><stop offset="1" stop-color="#0b1236"/></linearGradient>
+<radialGradient id="g" cx=".35" cy=".35" r=".8"><stop offset="0" stop-color="#7fd0ff"/><stop offset="1" stop-color="#1c55c0"/></radialGradient></defs>
+<rect width="320" height="200" fill="url(#b)"/>
+<g stroke="#7fd0ff" stroke-width="2" opacity=".7"><path d="M160 100L56 56M160 100L270 50M160 100L50 150M160 100L272 150M160 100L160 20M160 100L160 184"/></g>
+<circle cx="160" cy="100" r="36" fill="url(#g)"/><g fill="none" stroke="#bfe8ff" stroke-width="1.5" opacity=".8"><ellipse cx="160" cy="100" rx="36" ry="12"/><ellipse cx="160" cy="100" rx="14" ry="36"/></g>
+<rect x="30" y="36" width="52" height="36" rx="4" fill="#2a2f45"/><rect x="34" y="40" width="44" height="26" fill="#cfe9ff"/>
+<rect x="250" y="30" width="26" height="42" rx="5" fill="#2a2f45"/><rect x="253" y="35" width="20" height="32" rx="2" fill="#cfe9ff"/>
+<rect x="30" y="134" width="40" height="30" rx="4" fill="#2a2f45"/><rect x="33" y="137" width="34" height="22" fill="#cfe9ff"/>
+<rect x="256" y="138" width="28" height="28" rx="8" fill="#2a2f45"/><rect x="260" y="142" width="20" height="20" rx="5" fill="#cfe9ff"/>
+<rect x="146" y="6" width="28" height="22" rx="4" fill="#ffd98a"/><rect x="146" y="172" width="28" height="22" rx="4" fill="#ff6b81"/>
+</svg>

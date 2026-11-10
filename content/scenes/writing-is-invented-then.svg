@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 200" width="320" height="200" role="img" aria-label="A clay tablet pressed with wedge-shaped cuneiform marks and a reed stylus">
+<title>Writing, then: a clay tablet with wedge-shaped cuneiform marks and a reed stylus</title>
+<defs><linearGradient id="b" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#6b4a7a"/><stop offset="1" stop-color="#2a1d3e"/></linearGradient>
+<linearGradient id="c" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#e3b27a"/><stop offset="1" stop-color="#b9824f"/></linearGradient></defs>
+<rect width="320" height="200" fill="url(#b)"/>
+<rect x="84" y="36" width="152" height="128" rx="16" fill="url(#c)"/>
+<g stroke="#7a4a2a" stroke-width="3" stroke-linecap="round" fill="#7a4a2a">
+<path d="M104 62l10 2-6 8z M122 60l10 3-7 8z M140 62l10 2-6 8z M158 61l12 3-8 8z M180 62l10 2-6 8z M200 60l10 3-7 8z"/>
+<path d="M104 86l10 2-6 8z M122 88l12 2-8 8z M142 86l10 3-7 8z M164 88l10 2-6 8z M186 86l12 2-8 8z"/>
+<path d="M104 110l12 2-8 8z M126 112l10 2-6 8z M146 110l12 3-8 8z M170 112l10 2-6 8z M192 110l10 2-6 8z M212 112l8 2-5 7z"/>
+<path d="M104 134l10 2-6 8z M124 136l12 2-8 8z M146 134l10 3-7 8z M168 136l10 2-6 8z"/></g>
+<g><path d="M250 150l54-70" stroke="#9aa65a" stroke-width="7" stroke-linecap="round"/><path d="M250 150l-6 12 12-4z" fill="#6b7a32"/></g>
+</svg>

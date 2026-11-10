@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 180" role="img" aria-labelledby="t d" aria-label="Rooftops at night">
+<title id="t">Rooftops at night</title>
+<desc id="d">Terracotta roofs under a starry sky and a full moon, with one window lit by a lamp.</desc>
+<defs><linearGradient id="s" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#0b1030"/><stop offset="1" stop-color="#2c3a68"/></linearGradient><radialGradient id="moon"><stop offset="0" stop-color="#fff6d0" stop-opacity=".9"/><stop offset="1" stop-color="#fff6d0" stop-opacity="0"/></radialGradient><radialGradient id="glow"><stop offset="0" stop-color="#ffcf6a" stop-opacity=".9"/><stop offset="1" stop-color="#ffcf6a" stop-opacity="0"/></radialGradient></defs>
+<rect width="320" height="180" fill="url(#s)"/><circle cx="24" cy="24" r="1" fill="#fff6d8"/><circle cx="70" cy="52" r="0.8" fill="#fff6d8"/><circle cx="110" cy="20" r="1" fill="#fff6d8"/><circle cx="160" cy="44" r="0.8" fill="#fff6d8"/><circle cx="200" cy="18" r="1.2" fill="#fff6d8"/><circle cx="236" cy="56" r="0.8" fill="#fff6d8"/><circle cx="290" cy="30" r="1" fill="#fff6d8"/><circle cx="300" cy="78" r="0.8" fill="#fff6d8"/><circle cx="40" cy="84" r="0.8" fill="#fff6d8"/>
+<circle cx="250" cy="44" r="40" fill="url(#moon)" opacity=".5"/><circle cx="250" cy="44" r="15" fill="#fbf3d0"/>
+<g fill="#1a1d36"><path d="M0 120 L40 100 L90 100 L120 118 H0z"/><path d="M100 140 L150 104 L214 104 L250 126 L320 112 V180 H100z"/><path d="M0 150 L30 130 H110 V180 H0z"/></g>
+<g fill="#262b4c"><path d="M110 140 L156 108 H208 L240 130z"/></g>
+<rect x="150" y="136" width="14" height="20" fill="#ffcf6a"/><circle cx="157" cy="146" r="26" fill="url(#glow)" opacity=".6"/>
+<path d="M0 132 H320" stroke="#12142a" stroke-width="0"/><g fill="#12142a"><rect x="40" y="136" width="10" height="16"/><rect x="190" y="142" width="10" height="16"/><rect x="262" y="140" width="10" height="16"/></g>
+</svg>

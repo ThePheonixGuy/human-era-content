@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 180" role="img" aria-labelledby="t d" aria-label="Foragers gathering and hunting">
+<title id="t">Foragers gathering and hunting</title>
+<desc id="d">Two foragers gather wild plants into a basket while a gazelle grazes on a distant slope.</desc>
+<defs><linearGradient id="s" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#7cc3ea"/><stop offset="1" stop-color="#d8f0f6"/></linearGradient><linearGradient id="g" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#a2a85c"/><stop offset="1" stop-color="#6f7a3a"/></linearGradient></defs>
+<rect width="320" height="180" fill="url(#s)"/><circle cx="268" cy="30" r="14" fill="#fff4b8"/>
+<path d="M0 104 Q60 70 120 96 T240 90 T320 100 V180 H0z" fill="#b9a76a"/><path d="M0 122 Q90 98 170 118 T320 110 V180 H0z" fill="#98a458"/><rect y="130" width="320" height="50" fill="url(#g)"/>
+<g fill="#6b5030"><ellipse cx="236" cy="100" rx="10" ry="5"/><rect x="244" y="92" width="3" height="9" transform="rotate(20 245 96)"/><circle cx="248" cy="91" r="2.6"/><rect x="229" y="102" width="1.8" height="8"/><rect x="236" y="102" width="1.8" height="8"/></g>
+<g stroke="#7a5a2a" stroke-width="1.5" fill="none"><path d="M20 150 l3 -16 M28 151 l-1 -17 M36 150 l-4 -15 M44 151 l2 -16"/></g>
+<g fill="#c9a24a"><ellipse cx="23" cy="133" rx="2" ry="4"/><ellipse cx="27" cy="133" rx="2" ry="4"/><ellipse cx="32" cy="134" rx="2" ry="4"/><ellipse cx="46" cy="134" rx="2" ry="4"/></g>
+<g fill="#4a3524" transform="translate(110 158) scale(1.5)"><circle cx="4" cy="-17" r="3.4"/><path d="M0.5 -13 h7 l2 11 h-11z" transform="rotate(25 0 -2)"/><rect x="-3" y="-3" width="2.5" height="6"/><rect x="0.5" y="-3" width="2.5" height="6"/></g><g fill="#5b4230" transform="translate(160 164) scale(1.6)"><circle cx="4" cy="-17" r="3.4"/><path d="M0.5 -13 h7 l2 11 h-11z" transform="rotate(25 0 -2)"/><rect x="-3" y="-3" width="2.5" height="6"/><rect x="0.5" y="-3" width="2.5" height="6"/></g>
+<path d="M126 164 q10 12 24 0z" fill="#8c6a3a"/><path d="M126 164 h24" stroke="#5e4424" stroke-width="2"/>
+</svg>

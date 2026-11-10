@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 200" width="320" height="200" role="img" aria-label="Wild grass and a few round huts at dawn, with a person gathering grain">
+<title>Agriculture begins, then: a small settlement of round huts beside wild grain at dawn</title>
+<defs><linearGradient id="s" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#7a5bd6"/><stop offset=".6" stop-color="#ff9e7a"/><stop offset="1" stop-color="#ffd98a"/></linearGradient>
+<linearGradient id="g" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#b9a45a"/><stop offset="1" stop-color="#7d7a3a"/></linearGradient></defs>
+<rect width="320" height="200" fill="url(#s)"/><circle cx="240" cy="120" r="26" fill="#fff3c4" opacity=".9"/>
+<path d="M0 130Q80 100 160 125T320 115V200H0z" fill="#8a6a8c"/><rect y="138" width="320" height="62" fill="url(#g)"/>
+<g fill="#8b5e3c"><path d="M40 138a20 14 0 0 1 40 0z"/><path d="M95 142a16 11 0 0 1 32 0z"/><path d="M200 140a18 12 0 0 1 36 0z"/></g>
+<g fill="#5a3a24"><rect x="55" y="130" width="10" height="8" rx="2"/><rect x="104" y="136" width="8" height="6" rx="2"/><rect x="211" y="133" width="8" height="7" rx="2"/></g>
+<g stroke="#e8d27a" stroke-width="2" stroke-linecap="round" fill="none"><path d="M20 190q2-18 -2-30M30 192q0-20 4-32M42 190q-2-16 2-28M150 192q2-18 -2-30M162 192q0-20 4-32M174 190q-2-16 2-28M270 192q2-18 -2-30M282 192q0-20 4-32"/></g>
+<g><circle cx="118" cy="162" r="6" fill="#e0a77a"/><path d="M110 190l4-22h8l4 22z" fill="#4a7fc0"/><path d="M126 176q10-2 14 6l-14 4z" fill="#c98a3c"/></g>
+</svg>

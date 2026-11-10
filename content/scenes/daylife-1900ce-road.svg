@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 180" role="img" aria-labelledby="t d" aria-label="A horse and wagon">
+<title id="t">A horse and wagon</title>
+<desc id="d">A horse pulls a wagon along an unpaved country road beside a row of telegraph poles.</desc>
+<defs><linearGradient id="s" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#78b8e0"/><stop offset="1" stop-color="#e8f2f0"/></linearGradient><linearGradient id="g" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#98a860"/><stop offset="1" stop-color="#66783c"/></linearGradient><linearGradient id="r" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#c4a574"/><stop offset="1" stop-color="#9a7e52"/></linearGradient></defs>
+<rect width="320" height="180" fill="url(#s)"/><path d="M0 92 Q60 58 120 84 T240 78 T320 88 V180 H0z" fill="#a4b27c"/><path d="M0 110 Q90 86 170 106 T320 98 V180 H0z" fill="#88a058"/><rect y="104" width="320" height="76" fill="url(#g)"/>
+<path d="M0 148 Q120 126 320 138 V160 Q140 150 0 176z" fill="url(#r)"/>
+<rect x="40" y="72" width="3" height="60" fill="#5e4a34"/><rect x="32" y="74" width="19" height="2" fill="#5e4a34"/><rect x="120" y="69" width="3" height="63" fill="#5e4a34"/><rect x="112" y="71" width="19" height="2" fill="#5e4a34"/><rect x="200" y="66" width="3" height="66" fill="#5e4a34"/><rect x="192" y="68" width="19" height="2" fill="#5e4a34"/><rect x="280" y="63" width="3" height="69" fill="#5e4a34"/><rect x="272" y="65" width="19" height="2" fill="#5e4a34"/>
+<path d="M32 76 Q76 84 120 74 T200 68 T280 62" stroke="#3a3a3a" stroke-width=".8" fill="none"/>
+<g><rect x="150" y="128" width="58" height="22" fill="#7a4a2a"/><path d="M158 128 q22 -20 44 0z" fill="#e8dcc0"/><circle cx="162" cy="152" r="9" fill="none" stroke="#2a1c12" stroke-width="2.4"/><circle cx="198" cy="152" r="9" fill="none" stroke="#2a1c12" stroke-width="2.4"/>
+<ellipse cx="236" cy="134" rx="16" ry="9" fill="#5e3a22"/><path d="M246 130 l12 -14 l6 4 l-6 14z" fill="#5e3a22"/><rect x="226" y="140" width="3" height="16" fill="#3e2616"/><rect x="242" y="140" width="3" height="16" fill="#3e2616"/><path d="M208 138 h12" stroke="#2a1c12" stroke-width="2"/></g>
+<g fill="#2d2e40" transform="translate(176 126) scale(1.2)"><circle cx="0" cy="-17" r="3.4"/><path d="M-3.5 -13 h7 l2 11 h-11z" /><rect x="-3" y="-3" width="2.5" height="6"/><rect x="0.5" y="-3" width="2.5" height="6"/></g>
+</svg>

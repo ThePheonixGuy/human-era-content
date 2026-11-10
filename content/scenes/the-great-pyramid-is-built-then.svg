@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 200" width="320" height="200" role="img" aria-label="A smooth bright pyramid under construction with a ramp and tiny workers">
+<title>Great Pyramid, then: a smooth, bright pyramid with a construction ramp and tiny workers</title>
+<defs><linearGradient id="s" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#3aa0ff"/><stop offset="1" stop-color="#ffe9b0"/></linearGradient>
+<linearGradient id="p" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#fff4d6"/><stop offset="1" stop-color="#e8c98a"/></linearGradient></defs>
+<rect width="320" height="200" fill="url(#s)"/><circle cx="268" cy="38" r="18" fill="#fff6a8"/>
+<rect y="150" width="320" height="50" fill="#e6bf74"/>
+<path d="M160 30L254 154H66z" fill="url(#p)"/><path d="M160 30L254 154H160z" fill="#d9b06a" opacity=".55"/>
+<path d="M30 154L120 96l10 12L62 154z" fill="#a98a5a"/>
+<g fill="#7a4a2a"><rect x="60" y="146" width="4" height="8"/><rect x="74" y="136" width="4" height="8"/><rect x="88" y="126" width="4" height="8"/><rect x="102" y="116" width="4" height="8"/><rect x="40" y="148" width="4" height="8"/><rect x="200" y="160" width="4" height="9"/><rect x="214" y="166" width="4" height="9"/><rect x="236" y="162" width="4" height="9"/></g>
+</svg>

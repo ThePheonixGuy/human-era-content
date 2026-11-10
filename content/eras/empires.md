@@ -1,6 +1,6 @@
 ---
 id: "empires"
-label: "Age of Great Empires"
+label: "Classical antiquity"
 startYear: -200
 endYear: 500
 color: "#c084fc"

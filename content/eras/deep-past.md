@@ -1,6 +1,6 @@
 ---
 id: "deep-past"
-label: "Deep past"
+label: "Last Ice Age"
 startYear: -12000
 endYear: -10000
 color: "#8a94b8"

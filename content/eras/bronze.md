@@ -1,6 +1,6 @@
 ---
 id: "bronze"
-label: "Cities and Bronze"
+label: "Bronze Age"
 startYear: -3500
 endYear: -1200
 color: "#ffb347"

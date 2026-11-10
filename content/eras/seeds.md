@@ -1,6 +1,6 @@
 ---
 id: "seeds"
-label: "Seeds and Settlements"
+label: "Neolithic"
 startYear: -10000
 endYear: -3500
 color: "#7ed957"

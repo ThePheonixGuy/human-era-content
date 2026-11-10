@@ -6,4 +6,4 @@ order: 1
 focusHE: 6013
 spanYears: 13800
 ---
-Welcome to the Human Era. This is every year of human history on one line, from the first farms on the left to today on the right. Let me show you around. It takes about a minute.
+Welcome to the Human Era. This is every year of human history on one line, from the first farms to today. Let me show you around. It takes about a minute.

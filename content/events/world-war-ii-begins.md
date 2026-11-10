@@ -2,9 +2,10 @@
 id: "world-war-ii-begins"
 year: 1939.6658
 date: 1939-09-01
-level: 1
+level: 3
+parent: "world-war-ii"
 theme: "empires"
-title: "World War II begins"
+title: "Germany invades Poland"
 wiki: "Invasion of Poland"
 emoji: "⚔️"
 image:

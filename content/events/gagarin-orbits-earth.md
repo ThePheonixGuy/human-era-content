@@ -2,7 +2,8 @@
 id: "gagarin-orbits-earth"
 year: 1961.2767
 date: 1961-04-12
-level: 2
+level: 3
+parent: "space-race"
 theme: "exploration"
 title: "Gagarin orbits Earth"
 wiki: "Yuri Gagarin"

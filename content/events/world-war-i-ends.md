@@ -3,6 +3,7 @@ id: "world-war-i-ends"
 year: 1918.8603
 date: 1918-11-11
 level: 3
+parent: "world-war-i"
 theme: "empires"
 title: "World War I ends"
 wiki: "Armistice of 11 November 1918"

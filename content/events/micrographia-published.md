@@ -2,6 +2,7 @@
 id: "micrographia-published"
 year: 1665
 level: 4
+parent: "the-scientific-revolution"
 theme: "science"
 title: "Micrographia published"
 wiki: "Micrographia"

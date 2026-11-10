@@ -3,6 +3,7 @@ id: "apollo-13-crisis"
 year: 1970.2795
 date: 1970-04-13
 level: 5
+parent: "space-race"
 theme: "exploration"
 title: "Apollo 13 crisis"
 wiki: "Apollo 13"

@@ -1,7 +1,8 @@
 ---
 id: "first-covid-19-vaccine-given"
 year: 2020.94
-level: 6
+level: 4
+parent: "covid-19-pandemic"
 theme: "health"
 title: "First COVID-19 vaccine given"
 wiki: "COVID-19 vaccine"

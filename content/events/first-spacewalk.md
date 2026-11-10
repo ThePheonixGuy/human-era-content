@@ -2,7 +2,8 @@
 id: "first-spacewalk"
 year: 1965.2082
 date: 1965-03-18
-level: 5
+level: 4
+parent: "space-race"
 theme: "exploration"
 title: "First spacewalk"
 wiki: "Alexei Leonov"

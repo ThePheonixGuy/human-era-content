@@ -2,6 +2,7 @@
 id: "battle-of-the-somme"
 year: 1916.5
 level: 4
+parent: "world-war-i"
 theme: "empires"
 title: "Battle of the Somme"
 wiki: "Battle of the Somme"

@@ -3,6 +3,7 @@ id: "attack-on-pearl-harbor"
 year: 1941.9315
 date: 1941-12-07
 level: 4
+parent: "world-war-ii"
 theme: "empires"
 title: "Attack on Pearl Harbor"
 wiki: "Attack on Pearl Harbor"

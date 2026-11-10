@@ -2,6 +2,7 @@
 id: "india-and-pakistan-independent"
 year: 1947.62
 level: 3
+parent: "decolonization"
 theme: "empires"
 title: "India and Pakistan independent"
 wiki: "Indian independence movement"

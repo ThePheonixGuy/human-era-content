@@ -1,7 +1,8 @@
 ---
 id: "newton-s-principia"
 year: 1687
-level: 2
+level: 3
+parent: "the-scientific-revolution"
 theme: "science"
 title: "Newton's Principia"
 wiki: "Philosophiæ Naturalis Principia Mathematica"

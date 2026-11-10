@@ -2,6 +2,7 @@
 id: "encyclopedie-published"
 year: 1751
 level: 4
+parent: "the-age-of-enlightenment"
 theme: "writing"
 title: "The Encyclopédie begins"
 wiki: "Encyclopédie"

@@ -1,6 +1,7 @@
 ---
 id: "the-black-death"
 year: 1347
+endYear: 1353
 level: 1
 theme: "disasters"
 title: "The Black Death"

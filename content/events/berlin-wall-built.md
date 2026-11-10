@@ -2,7 +2,8 @@
 id: "berlin-wall-built"
 year: 1961.6137
 date: 1961-08-13
-level: 5
+level: 4
+parent: "the-cold-war"
 theme: "empires"
 title: "Berlin Wall built"
 wiki: "Berlin Wall"

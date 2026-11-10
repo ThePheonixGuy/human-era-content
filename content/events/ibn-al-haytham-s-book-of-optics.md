@@ -2,6 +2,7 @@
 id: "ibn-al-haytham-s-book-of-optics"
 year: 1011
 level: 4
+parent: "the-islamic-golden-age"
 theme: "science"
 title: "Ibn al-Haytham's Book of Optics"
 wiki: "Book of Optics"

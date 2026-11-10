@@ -1,10 +1,10 @@
 ---
-id: "who-declares-covid-19-a-pandemic"
-year: 2020.1913
-date: 2020-03-11
+id: "covid-19-pandemic"
+year: 2019
+endYear: 2023
 level: 1
 theme: "health"
-title: "WHO declares COVID-19 a pandemic"
+title: "COVID-19 pandemic"
 wiki: "COVID-19 pandemic"
 emoji: "😷"
 image:
@@ -16,7 +16,7 @@ sources:
     label: "Wikipedia: COVID-19 pandemic"
     url: "https://en.wikipedia.org/wiki/COVID-19_pandemic"
 ---
-The COVID-19 pandemic, caused by the virus SARS-CoV-2, began with an outbreak in Wuhan, China, in December 2019. The World Health Organization declared a public health emergency of international concern on 30 January 2020 and assessed the outbreak as a pandemic on 11 March.
+The COVID-19 pandemic, caused by the virus SARS-CoV-2, began with an outbreak in Wuhan, China, in December 2019. The World Health Organization declared a public health emergency of international concern on 30 January 2020 and assessed the outbreak as a pandemic on 11 March. It declared the emergency over on 5 May 2023.
 
 Why it matters: Lockdowns, travel bans and vaccine programmes followed, and millions died.
 

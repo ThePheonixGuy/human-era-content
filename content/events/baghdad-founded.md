@@ -2,6 +2,7 @@
 id: "baghdad-founded"
 year: 762
 level: 3
+parent: "the-islamic-golden-age"
 theme: "science"
 title: "Baghdad founded"
 wiki: "Baghdad"

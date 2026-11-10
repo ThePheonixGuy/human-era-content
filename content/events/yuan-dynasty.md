@@ -2,6 +2,7 @@
 id: "yuan-dynasty"
 year: 1271
 level: 3
+parent: "mongol-conquests"
 theme: "empires"
 title: "Yuan dynasty"
 wiki: "Yuan dynasty"

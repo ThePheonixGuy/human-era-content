@@ -2,7 +2,7 @@
 id: "the-cold-war"
 year: 1947
 endYear: 1991
-level: 2
+level: 1
 theme: "empires"
 title: "The Cold War"
 wiki: "Cold War"

@@ -1,7 +1,8 @@
 ---
 id: "first-circumnavigation"
 year: 1519
-level: 2
+level: 3
+parent: "the-age-of-discovery"
 theme: "exploration"
 title: "First circumnavigation"
 wiki: "Magellan's circumnavigation"

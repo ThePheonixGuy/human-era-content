@@ -1,7 +1,8 @@
 ---
 id: "galileo-turns-a-telescope-skyward"
 year: 1609
-level: 2
+level: 3
+parent: "the-scientific-revolution"
 theme: "science"
 title: "Galileo turns a telescope skyward"
 wiki: "Galileo Galilei"

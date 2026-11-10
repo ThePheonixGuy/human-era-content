@@ -2,6 +2,7 @@
 id: "leeuwenhoek-observes-microbes"
 year: 1676.77
 level: 4
+parent: "the-scientific-revolution"
 theme: "science"
 title: "Leeuwenhoek observes microbes"
 wiki: "Antonie van Leeuwenhoek"

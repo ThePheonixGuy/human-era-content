@@ -2,7 +2,7 @@
 id: "the-age-of-discovery"
 year: 1400
 endYear: 1600
-level: 2
+level: 1
 theme: "exploration"
 title: "The Age of Discovery"
 wiki: "Age of Discovery"

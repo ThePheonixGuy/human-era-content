@@ -2,6 +2,7 @@
 id: "adam-smith-s-wealth-of-nations"
 year: 1776.19
 level: 4
+parent: "the-age-of-enlightenment"
 theme: "ideas"
 title: "Adam Smith's Wealth of Nations"
 wiki: "The Wealth of Nations"

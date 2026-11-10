@@ -2,6 +2,7 @@
 id: "mongols-sack-baghdad"
 year: 1258
 level: 3
+parent: "mongol-conquests"
 theme: "disasters"
 title: "Mongols sack Baghdad"
 wiki: "Siege of Baghdad (1258)"

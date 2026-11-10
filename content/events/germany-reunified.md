@@ -3,6 +3,7 @@ id: "germany-reunified"
 year: 1990.7534
 date: 1990-10-03
 level: 5
+parent: "the-cold-war"
 theme: "empires"
 title: "Germany reunified"
 wiki: "German reunification"

@@ -1,6 +1,7 @@
 ---
 id: "the-axial-age"
-year: -500
+year: -800
+endYear: -200
 level: 1
 theme: "ideas"
 title: "The Axial Age"

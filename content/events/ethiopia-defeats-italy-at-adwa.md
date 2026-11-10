@@ -3,6 +3,7 @@ id: "ethiopia-defeats-italy-at-adwa"
 year: 1896.1639
 date: 1896-03-01
 level: 4
+parent: "scramble-for-africa"
 theme: "empires"
 title: "Ethiopia defeats Italy at Adwa"
 wiki: "Battle of Adwa"

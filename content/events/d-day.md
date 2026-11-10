@@ -3,6 +3,7 @@ id: "d-day"
 year: 1944.429
 date: 1944-06-06
 level: 3
+parent: "world-war-ii"
 theme: "empires"
 title: "D-Day"
 wiki: "Normandy landings"

@@ -2,6 +2,7 @@
 id: "emancipation-proclamation"
 year: 1863.0
 level: 4
+parent: "american-civil-war"
 theme: "ideas"
 title: "Emancipation Proclamation"
 wiki: "Emancipation Proclamation"

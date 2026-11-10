@@ -2,6 +2,7 @@
 id: "bandung-conference"
 year: 1955
 level: 5
+parent: "decolonization"
 theme: "ideas"
 title: "Bandung Conference"
 wiki: "Bandung Conference"

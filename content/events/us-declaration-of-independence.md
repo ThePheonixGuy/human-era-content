@@ -1,7 +1,8 @@
 ---
 id: "us-declaration-of-independence"
 year: 1776.5
-level: 2
+level: 3
+parent: "american-revolution"
 theme: "ideas"
 title: "US Declaration of Independence"
 wiki: "United States Declaration of Independence"

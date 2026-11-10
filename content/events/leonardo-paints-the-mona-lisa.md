@@ -2,6 +2,7 @@
 id: "leonardo-paints-the-mona-lisa"
 year: 1503
 level: 3
+parent: "the-renaissance"
 theme: "art"
 title: "Leonardo paints the Mona Lisa"
 wiki: "Mona Lisa"

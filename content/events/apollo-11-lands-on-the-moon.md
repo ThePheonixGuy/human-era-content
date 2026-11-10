@@ -2,7 +2,8 @@
 id: "apollo-11-lands-on-the-moon"
 year: 1969.5479
 date: 1969-07-20
-level: 1
+level: 3
+parent: "space-race"
 theme: "exploration"
 title: "Apollo 11 lands on the Moon"
 wiki: "Apollo 11"

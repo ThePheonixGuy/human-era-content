@@ -1,7 +1,8 @@
 ---
 id: "wall-street-crash"
 year: 1929.8247
-level: 2
+level: 3
+parent: "great-depression"
 theme: "disasters"
 title: "Wall Street crash"
 wiki: "Wall Street crash of 1929"

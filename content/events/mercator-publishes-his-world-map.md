@@ -2,6 +2,7 @@
 id: "mercator-publishes-his-world-map"
 year: 1569
 level: 4
+parent: "the-age-of-discovery"
 theme: "exploration"
 title: "Mercator publishes his world map"
 wiki: "Mercator 1569 world map"

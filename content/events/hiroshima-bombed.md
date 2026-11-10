@@ -2,7 +2,8 @@
 id: "hiroshima-bombed"
 year: 1945.5945
 date: 1945-08-06
-level: 2
+level: 3
+parent: "world-war-ii"
 theme: "empires"
 title: "Hiroshima bombed"
 wiki: "Atomic bombings of Hiroshima and Nagasaki"

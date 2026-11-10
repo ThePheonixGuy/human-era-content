@@ -2,6 +2,7 @@
 id: "royal-society-founded"
 year: 1660.91
 level: 4
+parent: "the-scientific-revolution"
 theme: "ideas"
 title: "Royal Society founded"
 wiki: "Royal Society"

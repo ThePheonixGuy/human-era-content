@@ -2,6 +2,7 @@
 id: "korean-war-begins"
 year: 1950.48
 level: 4
+parent: "the-cold-war"
 theme: "empires"
 title: "Korean War begins"
 wiki: "Korean War"

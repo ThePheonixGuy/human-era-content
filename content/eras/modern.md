@@ -1,6 +1,6 @@
 ---
 id: "modern"
-label: "Extremes and Connection"
+label: "Contemporary era"
 startYear: 1914
 endYear: 2026
 color: "#fc8181"

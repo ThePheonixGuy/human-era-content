@@ -1,6 +1,6 @@
 ---
 id: "axial"
-label: "Iron and the Axial Age"
+label: "Iron Age"
 startYear: -1200
 endYear: -200
 color: "#ff7aa8"

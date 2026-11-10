@@ -1,6 +1,6 @@
 ---
 id: "industrial"
-label: "Steam and Revolution"
+label: "Industrial age"
 startYear: 1760
 endYear: 1914
 color: "#f6e05e"

@@ -1,6 +1,6 @@
 ---
 id: "medieval"
-label: "Faith, Trade and Steppe"
+label: "Middle Ages"
 startYear: 500
 endYear: 1400
 color: "#4fd1c5"

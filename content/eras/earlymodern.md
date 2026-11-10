@@ -1,6 +1,6 @@
 ---
 id: "earlymodern"
-label: "Print and Oceans"
+label: "Early modern period"
 startYear: 1400
 endYear: 1760
 color: "#63b3ed"

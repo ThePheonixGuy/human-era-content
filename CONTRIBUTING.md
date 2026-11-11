@@ -53,6 +53,10 @@ Fields:
 - `image`: optional, see below.
 - `thenNow`: optional. It needs original SVG scenes in `content/scenes/` named `<id>-then.svg` and `<id>-now.svg`, with `thenSvg` and `nowSvg` set to `img/scenes/<id>-then.svg` and `img/scenes/<id>-now.svg`.
 
+## Add a screensaver topic
+
+The site's Screensaver mode offers curated topics from `content/pages/screensaver-topics.md`. Add an entry to the `topics` list with an `id` (kebab-case), a short `label`, an `icon` (the id of a file in `content/themes/`) and `events`, a one-line JSON list of existing event ids. Only list events that genuinely belong to the topic. Every id must exist and a topic needs at least 5 events, which `node tools/validate-content.mjs` checks. The camera visits the events in time order, or shuffled if the visitor asks.
+
 ## Fix a fact
 
 Edit the event file, keep the source line truthful to what you checked, and say in the pull request what the source says. If the year changes, change `date` with it.

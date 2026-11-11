@@ -148,6 +148,27 @@ function checkCompareFacts(it, items, err) {
   }
 }
 
+/** screensaver-topics page: a list of curated topics, each with a unique id, a label, a known theme as icon and at least 5 distinct existing event ids. */
+function checkScreensaverTopics(d, items, err) {
+  const eventIds = new Set(items.filter((x) => x.rel.startsWith('events/') && x.data).map((x) => x.data.id));
+  const themeIds = new Set(items.filter((x) => x.rel.startsWith('themes/') && x.data).map((x) => x.data.id));
+  if (!Array.isArray(d.topics) || d.topics.length < 1) return err('topics must be a non-empty list');
+  const seen = new Set();
+  d.topics.forEach((t, i) => {
+    const at = `topics[${i}]`;
+    if (!t || typeof t !== 'object') return err(`${at} must be a map`);
+    if (typeof t.id !== 'string' || !/^[a-z0-9][a-z0-9-]*$/.test(t.id)) err(`${at}.id must be kebab-case`);
+    else if (seen.has(t.id)) err(`${at}.id ${t.id} is repeated`);
+    else seen.add(t.id);
+    if (typeof t.label !== 'string' || !t.label.trim()) err(`${at}.label must be a non-empty string`);
+    if (!themeIds.has(t.icon)) err(`${at}.icon ${t.icon} is not a theme id`);
+    if (!Array.isArray(t.events)) return err(`${at}.events must be a list of event ids`);
+    for (const id of t.events) if (!eventIds.has(id)) err(`${at} (${t.id}): unknown event id ${id}`);
+    if (new Set(t.events).size !== t.events.length) err(`${at} (${t.id}): duplicate event id`);
+    if (new Set(t.events).size < 5) err(`${at} (${t.id}): needs at least 5 events`);
+  });
+}
+
 const BEAT_NAMES = ['dawn', 'work', 'road', 'food', 'evening', 'night'];
 const HOLO_POSES = ['cheer', 'sparkle', 'helmet', 'nap'];
 
@@ -264,7 +285,7 @@ export function validate(items, root) {
       if (!it.body.trim()) err(it.rel, 'empty body');
     } else if (kind === 'pages') {
       need('title', 'string'); need('kind', 'string'); need('order', 'number');
-      if (!['intro', 'explainer', 'tour', 'trail', 'daylife'].includes(d.kind)) err(it.rel, 'kind must be intro, explainer, tour, trail or daylife');
+      if (!['intro', 'explainer', 'tour', 'trail', 'daylife', 'screensaver'].includes(d.kind)) err(it.rel, 'kind must be intro, explainer, tour, trail, daylife or screensaver');
       if (d.kind === 'intro') {
         if (d.focusHE !== 'now' && typeof d.focusHE !== 'number') err(it.rel, 'focusHE must be a number or now');
         need('spanYears', 'number');
@@ -274,6 +295,7 @@ export function validate(items, root) {
         if (typeof d.eventId === 'string' && !items.some((x) => x.rel === `events/${d.eventId}.md`)) err(it.rel, `unknown eventId ${d.eventId}`);
       }
       if (d.kind === 'daylife') checkDayInLife(d, (m) => err(it.rel, m), root);
+      if (d.kind === 'screensaver') checkScreensaverTopics(d, items, (m) => err(it.rel, m));
       if (!it.body.trim()) err(it.rel, 'empty body');
       if (d.id === 'compare-facts') checkCompareFacts(it, items, (m) => err(it.rel, m));
     } else if (kind === 'eras') {

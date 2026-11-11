@@ -84,6 +84,10 @@ title: "D-Day"
 
 The validator checks that the parent exists, has an `endYear`, contains the step's `year`, has a lower `level` than the step, and that no chain of parents loops. A whole-number year covers the whole year, so a parent ending in 1945 holds a step dated 2 September 1945. Before adding a level 1 or 2 event, check that it is the name history uses for the big thing, with a Wikipedia article of that name. A single incident inside a bigger story belongs one level down as a step.
 
+## Add a screensaver topic
+
+The site's Screensaver mode offers curated topics from `content/pages/screensaver-topics.md`. Add an entry to the `topics` list with an `id` (kebab-case), a short `label`, an `icon` (the id of a file in `content/themes/`) and `events`, a one-line JSON list of existing event ids. Only list events that genuinely belong to the topic. Every id must exist and a topic needs at least 5 events, which `node tools/validate-content.mjs` checks. The camera visits the events in time order, or shuffled if the visitor asks.
+
 ## Fix a fact
 
 Edit the event file, keep the source line truthful to what you checked, and say in the pull request what the source says. If the year changes, change `date` with it.

@@ -2,6 +2,7 @@
 id: "da-gama-sails-to-india"
 year: 1497
 level: 3
+parent: "the-age-of-discovery"
 theme: "exploration"
 title: "Da Gama sails to India"
 wiki: "Vasco da Gama"

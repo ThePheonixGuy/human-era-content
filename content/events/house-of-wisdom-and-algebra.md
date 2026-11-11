@@ -1,7 +1,8 @@
 ---
 id: "house-of-wisdom-and-algebra"
 year: 820
-level: 2
+level: 3
+parent: "the-islamic-golden-age"
 theme: "science"
 title: "House of Wisdom and algebra"
 wiki: "House of Wisdom"

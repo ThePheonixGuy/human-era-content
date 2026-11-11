@@ -3,6 +3,7 @@ id: "dust-bowl"
 year: 1930
 endYear: 1940
 level: 4
+parent: "great-depression"
 theme: "environment"
 title: "The Dust Bowl"
 wiki: "Dust Bowl"

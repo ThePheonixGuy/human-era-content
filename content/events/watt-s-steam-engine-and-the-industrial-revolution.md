@@ -1,9 +1,10 @@
 ---
 id: "watt-s-steam-engine-and-the-industrial-revolution"
 year: 1769
-level: 1
+level: 3
+parent: "the-industrial-revolution"
 theme: "tech"
-title: "Watt's steam engine and the Industrial Revolution"
+title: "Watt's steam engine"
 wiki: "James Watt"
 emoji: "🏭"
 image:

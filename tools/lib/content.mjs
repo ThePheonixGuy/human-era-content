@@ -197,6 +197,46 @@ function checkDayInLife(d, err, root) {
   });
 }
 
+/**
+ * Big events and their steps. An event may name a `parent` (another event id). The parent must exist, must be a span
+ * (`endYear`), must contain the child's `year`, and must have a lower `level` than the child. Whole-number years cover
+ * the whole year, so a parent spanning 1939 to 1945 contains a child dated 1945.67. Chains must not loop.
+ */
+function checkHierarchy(items, err) {
+  const events = new Map();
+  for (const it of items) if (it.rel.startsWith('events/') && it.data && typeof it.data.id === 'string') events.set(it.data.id, it);
+  const within = (y, start, end) => y >= start && (Number.isInteger(end) ? y < end + 1 : y <= end);
+  for (const [id, it] of events) {
+    const p = it.data.parent;
+    if (p === undefined) continue;
+    if (typeof p !== 'string' || !p) { err(it.rel, 'parent must be an event id'); continue; }
+    if (p === id) { err(it.rel, 'parent cannot be the event itself'); continue; }
+    const parent = events.get(p);
+    if (!parent) { err(it.rel, `parent ${p} is not an event`); continue; }
+    const pd = parent.data;
+    const d = it.data;
+    if (typeof pd.endYear !== 'number') err(it.rel, `parent ${p} needs an endYear (only a span can hold steps)`);
+    else if (typeof d.year === 'number' && typeof pd.year === 'number' && !within(d.year, pd.year, pd.endYear)) {
+      err(it.rel, `year ${d.year} is outside parent ${p} (${pd.year} to ${pd.endYear})`);
+    }
+    if (Number.isInteger(d.level) && Number.isInteger(pd.level) && pd.level >= d.level) {
+      err(it.rel, `level ${d.level} must be higher than parent ${p}'s level ${pd.level}`);
+    }
+  }
+  // Cycles: follow each chain; reaching a visited id on the same walk is a loop.
+  const reported = new Set();
+  for (const id of events.keys()) {
+    const seen = [];
+    let cur = id;
+    while (cur && events.has(cur) && !seen.includes(cur)) { seen.push(cur); cur = events.get(cur).data.parent; }
+    if (cur && seen.includes(cur)) {
+      const loop = seen.slice(seen.indexOf(cur)).sort();
+      const key = loop.join(',');
+      if (!reported.has(key)) { reported.add(key); err(events.get(cur).rel, `parent chain loops: ${loop.join(' -> ')}`); }
+    }
+  }
+}
+
 export function validate(items, root) {
   const errors = [];
   const err = (rel, msg) => errors.push(`${rel}: ${msg}`);
@@ -268,5 +308,6 @@ export function validate(items, root) {
       need('label', 'string'); need('color', 'string');
     }
   }
+  checkHierarchy(items, err);
   return errors;
 }

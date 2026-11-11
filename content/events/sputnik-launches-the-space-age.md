@@ -2,7 +2,8 @@
 id: "sputnik-launches-the-space-age"
 year: 1957.7562
 date: 1957-10-04
-level: 2
+level: 3
+parent: "space-race"
 theme: "exploration"
 title: "Sputnik launches the space age"
 wiki: "Sputnik 1"

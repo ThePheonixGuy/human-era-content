@@ -2,6 +2,7 @@
 id: "sn-1572-tychos-supernova"
 year: 1572.85
 level: 4
+parent: "the-scientific-revolution"
 theme: "science"
 title: "Tycho's supernova"
 wiki: "SN 1572"

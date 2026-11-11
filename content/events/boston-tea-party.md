@@ -3,6 +3,7 @@ id: "boston-tea-party"
 year: 1773.9562
 date: 1773-12-16
 level: 4
+parent: "american-revolution"
 theme: "ideas"
 title: "Boston Tea Party"
 wiki: "Boston Tea Party"

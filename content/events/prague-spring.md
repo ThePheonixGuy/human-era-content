@@ -2,6 +2,7 @@
 id: "prague-spring"
 year: 1968
 level: 5
+parent: "the-cold-war"
 theme: "ideas"
 title: "Prague Spring"
 wiki: "Prague Spring"

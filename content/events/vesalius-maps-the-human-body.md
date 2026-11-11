@@ -2,6 +2,7 @@
 id: "vesalius-maps-the-human-body"
 year: 1543
 level: 4
+parent: "the-scientific-revolution"
 theme: "science"
 title: "Vesalius maps the human body"
 wiki: "De humani corporis fabrica"

@@ -1,7 +1,8 @@
 ---
 id: "columbus-reaches-the-americas"
 year: 1492.78
-level: 1
+level: 3
+parent: "the-age-of-discovery"
 theme: "exploration"
 title: "Columbus reaches the Americas"
 wiki: "Voyages of Christopher Columbus"

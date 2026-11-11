@@ -3,6 +3,7 @@ id: "ve-day"
 year: 1945.3479
 date: 1945-05-08
 level: 4
+parent: "world-war-ii"
 theme: "empires"
 title: "VE Day"
 wiki: "Victory in Europe Day"

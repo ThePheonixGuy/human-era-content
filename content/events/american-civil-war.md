@@ -1,9 +1,10 @@
 ---
-id: "american-civil-war-begins"
-year: 1861.28
+id: "american-civil-war"
+year: 1861
+endYear: 1865
 level: 2
 theme: "empires"
-title: "American Civil War begins"
+title: "American Civil War"
 wiki: "American Civil War"
 emoji: "⚔️"
 image:
@@ -15,7 +16,7 @@ sources:
     label: "Wikipedia: American Civil War"
     url: "https://en.wikipedia.org/wiki/American_Civil_War"
 ---
-The American Civil War began in April 1861 between the Union and the Confederacy, which Southern states formed after seceding to preserve slavery. Southern leaders feared for slavery after Abraham Lincoln's election in 1860. The war ended in a Union victory.
+The American Civil War (1861 to 1865) was fought between the Union and the Confederacy, which Southern states formed after seceding to preserve slavery. Southern leaders feared for slavery after Abraham Lincoln's election in 1860. The war ended in a Union victory.
 
 Why it matters: The Union victory ended slavery in the United States and settled that the states could not leave the Union.
 

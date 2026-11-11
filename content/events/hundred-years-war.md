@@ -1,9 +1,10 @@
 ---
-id: "hundred-years-war-begins"
+id: "hundred-years-war"
 year: 1337
+endYear: 1453
 level: 3
 theme: "empires"
-title: "Hundred Years' War begins"
+title: "Hundred Years' War"
 wiki: "Hundred Years' War"
 emoji: "⚔️"
 image:
@@ -13,10 +14,10 @@ image:
 sources:
   - type: "wikipedia"
     label: "Wikipedia: Hundred Years' War"
-    url: "https://en.wikipedia.org/wiki/Hundred_Years'_War"
+    url: "https://en.wikipedia.org/wiki/Hundred_Years%27_War"
 ---
 The Hundred Years' War was a series of conflicts between England and France, and a civil war in France, in the late Middle Ages. It grew out of feudal disputes over the Duchy of Aquitaine and was triggered by Edward III of England's claim to the French throne. It began in 1337 and ended in 1453.
 
 ## Sources
 
-- Wikipedia: [Hundred Years' War](https://en.wikipedia.org/wiki/Hundred_Years'_War)
+- Wikipedia: [Hundred Years' War](https://en.wikipedia.org/wiki/Hundred_Years%27_War)

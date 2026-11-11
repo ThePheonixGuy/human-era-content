@@ -2,6 +2,7 @@
 id: "first-public-steam-railway"
 year: 1825.74
 level: 3
+parent: "the-industrial-revolution"
 theme: "tech"
 title: "First public steam railway"
 wiki: "Stockton and Darlington Railway"

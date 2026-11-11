@@ -2,6 +2,7 @@
 id: "visigoths-sack-rome"
 year: 410.64
 level: 4
+parent: "fall-of-the-western-roman-empire"
 theme: "empires"
 title: "Visigoths sack Rome"
 wiki: "Sack of Rome (410)"

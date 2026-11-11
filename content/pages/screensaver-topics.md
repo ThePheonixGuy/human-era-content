@@ -7,11 +7,11 @@ topics:
   - id: "plagues"
     label: "Plagues and pandemics"
     icon: "health"
-    events: ["plague-of-justinian", "the-black-death", "great-plague-of-london", "smallpox-inoculation-reaches-britain", "jenner-s-smallpox-vaccine", "broad-street-cholera-outbreak", "spanish-flu-pandemic", "aids-first-reported", "smallpox-declared-eradicated", "sars-outbreak", "who-declares-covid-19-a-pandemic", "first-covid-19-vaccine-given"]
+    events: ["plague-of-justinian", "the-black-death", "great-plague-of-london", "smallpox-inoculation-reaches-britain", "jenner-s-smallpox-vaccine", "broad-street-cholera-outbreak", "spanish-flu-pandemic", "aids-first-reported", "smallpox-declared-eradicated", "sars-outbreak", "covid-19-pandemic", "first-covid-19-vaccine-given"]
   - id: "empires"
     label: "Empires"
     icon: "empires"
-    events: ["sargon-founds-the-akkadian-empire", "cyrus-founds-the-persian-empire", "alexander-conquers-persia", "china-is-unified", "the-roman-empire-begins", "western-rome-falls", "genghis-khan-unites-the-mongols", "the-ottoman-empire-rises", "inca-empire-expands", "mughal-empire-founded", "spain-conquers-the-aztecs", "scramble-for-africa", "soviet-union-dissolves"]
+    events: ["sargon-founds-the-akkadian-empire", "cyrus-founds-the-persian-empire", "alexander-conquers-persia", "china-is-unified", "the-roman-empire-begins", "fall-of-the-western-roman-empire", "genghis-khan-unites-the-mongols", "the-ottoman-empire-rises", "inca-empire-expands", "mughal-empire-founded", "spain-conquers-the-aztecs", "scramble-for-africa", "soviet-union-dissolves"]
   - id: "inventions"
     label: "Inventions"
     icon: "tech"

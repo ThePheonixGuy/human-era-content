@@ -2,7 +2,8 @@
 id: "soviet-union-dissolves"
 year: 1991.9836
 date: 1991-12-26
-level: 2
+level: 3
+parent: "the-cold-war"
 theme: "empires"
 title: "Soviet Union dissolves"
 wiki: "Dissolution of the Soviet Union"

@@ -1,9 +1,10 @@
 ---
 id: "french-revolution-begins"
 year: 1789.53
-level: 1
+level: 3
+parent: "french-revolution"
 theme: "ideas"
-title: "French Revolution begins"
+title: "Storming of the Bastille"
 wiki: "Storming of the Bastille"
 emoji: "🇫🇷"
 image:

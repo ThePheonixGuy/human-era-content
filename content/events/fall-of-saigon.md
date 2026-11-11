@@ -3,6 +3,7 @@ id: "fall-of-saigon"
 year: 1975.326
 date: 1975-04-30
 level: 5
+parent: "vietnam-war"
 theme: "empires"
 title: "Fall of Saigon"
 wiki: "Fall of Saigon"

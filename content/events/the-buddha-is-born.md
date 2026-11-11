@@ -1,7 +1,8 @@
 ---
 id: "the-buddha-is-born"
 year: -563
-level: 2
+level: 3
+parent: "the-axial-age"
 theme: "ideas"
 title: "The Buddha is born"
 wiki: "Gautama Buddha"

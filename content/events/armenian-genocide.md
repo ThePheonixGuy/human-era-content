@@ -2,6 +2,7 @@
 id: "armenian-genocide"
 year: 1915
 level: 5
+parent: "world-war-i"
 theme: "disasters"
 title: "Armenian genocide"
 wiki: "Armenian genocide"

@@ -4,7 +4,7 @@ Everything the Human Era site shows as editorial material. The tree is self-cont
 
 ```
 content/
-  events/    one markdown file per event: frontmatter (id, year, level, theme, wiki, sources, optional image and thenNow) plus a short original-wording body
+  events/    one markdown file per event: frontmatter (id, year, level, theme, wiki, sources, optional endYear, parent, image and thenNow) plus a short original-wording body
   eras/      one file per era band
   themes/    one file per theme (label, colour, emoji)
   pages/     intro steps, tour steps, explainers, trails and the compare-facts list

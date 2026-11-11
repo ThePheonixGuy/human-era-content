@@ -2,6 +2,7 @@
 id: "joan-of-arc-lifts-siege-of-orleans"
 year: 1429.35
 level: 4
+parent: "hundred-years-war"
 theme: "empires"
 title: "Joan of Arc lifts siege of Orléans"
 wiki: "Joan of Arc"

@@ -2,6 +2,7 @@
 id: "eli-whitney-cotton-gin"
 year: 1794.2
 level: 4
+parent: "the-industrial-revolution"
 theme: "tech"
 title: "Cotton gin patented"
 wiki: "Cotton gin"

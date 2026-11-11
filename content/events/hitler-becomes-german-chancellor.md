@@ -1,7 +1,7 @@
 ---
 id: "hitler-becomes-german-chancellor"
 year: 1933.08
-level: 3
+level: 4
 theme: "empires"
 title: "Hitler becomes German chancellor"
 wiki: "Adolf Hitler"

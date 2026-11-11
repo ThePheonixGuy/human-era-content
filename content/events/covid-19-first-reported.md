@@ -1,7 +1,8 @@
 ---
 id: "covid-19-first-reported"
 year: 2019.99
-level: 6
+level: 4
+parent: "covid-19-pandemic"
 theme: "health"
 title: "COVID-19 first reported"
 wiki: "COVID-19 pandemic"

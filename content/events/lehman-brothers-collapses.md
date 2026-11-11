@@ -3,6 +3,7 @@ id: "lehman-brothers-collapses"
 year: 2008.7049
 date: 2008-09-15
 level: 4
+parent: "global-financial-crisis"
 theme: "disasters"
 title: "Lehman Brothers collapses"
 wiki: "Bankruptcy of Lehman Brothers"

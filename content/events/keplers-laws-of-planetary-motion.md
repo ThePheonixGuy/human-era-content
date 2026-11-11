@@ -2,6 +2,7 @@
 id: "keplers-laws-of-planetary-motion"
 year: 1609
 level: 4
+parent: "the-scientific-revolution"
 theme: "science"
 title: "Kepler's laws of planetary motion"
 wiki: "Kepler's laws of planetary motion"

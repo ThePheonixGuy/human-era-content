@@ -2,9 +2,10 @@
 id: "world-war-i-begins"
 year: 1914.4877
 date: 1914-06-28
-level: 1
+level: 3
+parent: "world-war-i"
 theme: "empires"
-title: "World War I begins"
+title: "Archduke Franz Ferdinand assassinated"
 wiki: "Assassination of Archduke Franz Ferdinand"
 emoji: "⚔️"
 image:

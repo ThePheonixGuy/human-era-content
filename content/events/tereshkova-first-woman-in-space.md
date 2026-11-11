@@ -2,7 +2,8 @@
 id: "tereshkova-first-woman-in-space"
 year: 1963.4548
 date: 1963-06-16
-level: 5
+level: 4
+parent: "space-race"
 theme: "exploration"
 title: "First woman in space"
 wiki: "Valentina Tereshkova"

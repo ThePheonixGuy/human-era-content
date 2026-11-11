@@ -2,6 +2,7 @@
 id: "sistine-chapel-ceiling-unveiled"
 year: 1512.83
 level: 4
+parent: "the-renaissance"
 theme: "art"
 title: "Michelangelo's Sistine Chapel ceiling"
 wiki: "Sistine Chapel ceiling"

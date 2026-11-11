@@ -1,7 +1,8 @@
 ---
 id: "berlin-wall-falls"
 year: 1989.85
-level: 2
+level: 3
+parent: "the-cold-war"
 theme: "empires"
 title: "Berlin Wall falls"
 wiki: "Berlin Wall"

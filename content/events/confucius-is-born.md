@@ -1,7 +1,8 @@
 ---
 id: "confucius-is-born"
 year: -551
-level: 2
+level: 3
+parent: "the-axial-age"
 theme: "ideas"
 title: "Confucius is born"
 wiki: "Confucius"

@@ -1,7 +1,8 @@
 ---
 id: "genghis-khan-unites-the-mongols"
 year: 1206
-level: 1
+level: 3
+parent: "mongol-conquests"
 theme: "empires"
 title: "Genghis Khan unites the Mongols"
 wiki: "Genghis Khan"

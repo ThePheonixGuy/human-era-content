@@ -2,6 +2,7 @@
 id: "britain-bans-the-slave-trade"
 year: 1807.23
 level: 4
+parent: "the-atlantic-slave-trade"
 theme: "ideas"
 title: "Britain bans the slave trade"
 wiki: "Slave Trade Act 1807"

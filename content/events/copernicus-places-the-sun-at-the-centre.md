@@ -1,7 +1,8 @@
 ---
 id: "copernicus-places-the-sun-at-the-centre"
 year: 1543
-level: 1
+level: 3
+parent: "the-scientific-revolution"
 theme: "science"
 title: "Copernicus places the Sun at the centre"
 wiki: "De revolutionibus orbium coelestium"

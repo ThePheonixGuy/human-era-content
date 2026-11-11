@@ -3,6 +3,7 @@ id: "vietnam-war"
 year: 1955
 endYear: 1975
 level: 3
+parent: "the-cold-war"
 theme: "empires"
 title: "Vietnam War"
 wiki: "Vietnam War"

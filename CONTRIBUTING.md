@@ -50,8 +50,39 @@ Fields:
 - `theme`: the id of a file in `content/themes/`.
 - `title`, `wiki` (the Wikipedia article title), `emoji`.
 - `sources`: at least one. `type: "wikipedia"` needs an `en.wikipedia.org` URL. `type: "book"` needs a `label` naming the book and chapter.
+- `endYear`: optional. Makes the event a span, for example a war or a period.
+- `parent`: optional. The id of the big event this one is a step of. See below.
 - `image`: optional, see below.
 - `thenNow`: optional. It needs original SVG scenes in `content/scenes/` named `<id>-then.svg` and `<id>-now.svg`, with `thenSvg` and `nowSvg` set to `img/scenes/<id>-then.svg` and `img/scenes/<id>-now.svg`.
+
+## Big events and their steps
+
+Some events are the name history gives to a big story, such as World War II or the Global financial crisis. Others are steps inside one, such as D-Day or the collapse of Lehman Brothers. The big event is a span with a low level (1 or 2, so it shows when the timeline is zoomed out). Each step names it in `parent` and has a higher level (3 to 6). The site shows the big event at wide zoom and reveals its steps inside the span as you zoom in.
+
+```markdown
+---
+id: "world-war-ii"
+year: 1939
+endYear: 1945
+level: 1
+title: "World War II"
+...
+---
+```
+
+```markdown
+---
+id: "d-day"
+year: 1944.429
+date: 1944-06-06
+level: 3
+parent: "world-war-ii"
+title: "D-Day"
+...
+---
+```
+
+The validator checks that the parent exists, has an `endYear`, contains the step's `year`, has a lower `level` than the step, and that no chain of parents loops. A whole-number year covers the whole year, so a parent ending in 1945 holds a step dated 2 September 1945. Before adding a level 1 or 2 event, check that it is the name history uses for the big thing, with a Wikipedia article of that name. A single incident inside a bigger story belongs one level down as a step.
 
 ## Add a screensaver topic
 
@@ -87,7 +118,7 @@ Edit the event file, keep the source line truthful to what you checked, and say 
 node tools/validate-content.mjs
 ```
 
-It checks frontmatter, ids and filenames, levels, years and dates, sources, image fields and licences, scene files, compare-facts pairs, guided pages and `thenNow` references. It prints each problem with the file name.
+It checks frontmatter, ids and filenames, levels, years and dates, parents and steps, sources, image fields and licences, scene files, compare-facts pairs, guided pages and `thenNow` references. It prints each problem with the file name.
 
 ## How reviews work
 

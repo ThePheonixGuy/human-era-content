@@ -1,6 +1,7 @@
 ---
 id: "the-renaissance"
 year: 1400
+endYear: 1600
 level: 2
 theme: "art"
 title: "The Renaissance"

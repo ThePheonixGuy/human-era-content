@@ -2,6 +2,7 @@
 id: "cuban-missile-crisis"
 year: 1962.79
 level: 4
+parent: "the-cold-war"
 theme: "empires"
 title: "Cuban Missile Crisis"
 wiki: "Cuban Missile Crisis"

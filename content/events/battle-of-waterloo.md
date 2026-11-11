@@ -1,7 +1,8 @@
 ---
 id: "battle-of-waterloo"
 year: 1815.46
-level: 3
+level: 4
+parent: "napoleonic-wars"
 theme: "empires"
 title: "Battle of Waterloo"
 wiki: "Battle of Waterloo"

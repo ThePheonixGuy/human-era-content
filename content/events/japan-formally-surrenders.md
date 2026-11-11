@@ -3,6 +3,7 @@ id: "japan-formally-surrenders"
 year: 1945.6685
 date: 1945-09-02
 level: 4
+parent: "world-war-ii"
 theme: "empires"
 title: "Japan formally surrenders"
 wiki: "Surrender of Japan"

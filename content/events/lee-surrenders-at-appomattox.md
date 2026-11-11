@@ -2,6 +2,7 @@
 id: "lee-surrenders-at-appomattox"
 year: 1865.27
 level: 4
+parent: "american-civil-war"
 theme: "empires"
 title: "Lee surrenders at Appomattox"
 wiki: "Battle of Appomattox Court House"

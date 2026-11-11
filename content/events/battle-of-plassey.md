@@ -16,7 +16,7 @@ sources:
     label: "Wikipedia: Battle of Plassey"
     url: "https://en.wikipedia.org/wiki/Battle_of_Plassey"
 ---
-On 23 June 1757 the British East India Company under Robert Clive defeated the Nawab of Bengal. The commander Mir Jafar had betrayed the Nawab. The victory helped the Company take control of Bengal.
+The British East India Company, led by Robert Clive, defeated the Nawab of Bengal and his French allies at Plassey. The Nawab's commander Mir Jafar had betrayed him. The battle took place on 23 June 1757 and helped the Company take control of Bengal.
 
 ## Sources
 

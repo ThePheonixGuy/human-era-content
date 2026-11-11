@@ -2,7 +2,7 @@
 id: "space-race"
 year: 1955
 endYear: 1975
-level: 2
+level: 1
 theme: "exploration"
 title: "The Space Race"
 wiki: "Space Race"

@@ -22,7 +22,11 @@ The starting point sits near the beginning of the Holocene epoch and near the Ne
 
 # Where it came from
 
-Cesare Emiliani (1922 to 1995) was an Italian-American scientist and the founder of paleoceanography. He first suggested aligning the era with the 7,980-year Julian cycle, starting in 4713 BCE, but dropped that plan in favour of the 10,000 year shift.
+Cesare Emiliani (1922 to 1995) was an Italian-American scientist and the founder of paleoceanography. He first suggested aligning the era with the 7,980-year Julian cycle, starting in 4713 BCE (5288 HE), but dropped that plan in favour of the 10,000 year shift.
+
+# About the collection
+
+About 540 curated events. Coverage is richer for recent centuries and growing, and [contributions are welcome](https://github.com/ThePheonixGuy/human-era-content/blob/main/CONTRIBUTING.md).
 
 # Read more
 

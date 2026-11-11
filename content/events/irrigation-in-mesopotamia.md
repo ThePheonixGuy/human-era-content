@@ -7,9 +7,9 @@ title: "Irrigation in Mesopotamia"
 wiki: "Irrigation"
 emoji: "💧"
 image:
-  url: "https://commons.wikimedia.org/wiki/Special:FilePath/Fields_SW_from_Sevilla.jpg?width=800"
-  credit: "kallerna via Wikimedia Commons"
-  licence: "CC BY-SA 4.0"
+  url: "https://upload.wikimedia.org/wikipedia/commons/1/17/Neosfield.JPG"
+  credit: "Zunkir via Wikimedia Commons"
+  licence: "Public domain"
 sources:
   - type: "wikipedia"
     label: "Wikipedia: Irrigation"

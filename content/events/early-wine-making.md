@@ -7,9 +7,9 @@ title: "Early wine making"
 wiki: "Wine"
 emoji: "🍇"
 image:
-  url: "https://upload.wikimedia.org/wikipedia/commons/a/af/Red_and_white_wine_in_glass.jpg"
-  credit: "André Karwath via Wikimedia Commons"
-  licence: "CC BY-SA 2.5"
+  url: "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d1/Neolithic_jar_from_Georgia_6000_BC.jpg/960px-Neolithic_jar_from_Georgia_6000_BC.jpg"
+  credit: "Mindia Jalabadze via Wikimedia Commons"
+  licence: "CC BY 4.0"
 sources:
   - type: "wikipedia"
     label: "Wikipedia: Wine"

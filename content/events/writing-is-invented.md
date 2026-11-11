@@ -7,9 +7,9 @@ title: "Writing is invented"
 wiki: "Cuneiform"
 emoji: "✍️"
 image:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Xerxes_Cuneiform_Van.JPG/960px-Xerxes_Cuneiform_Van.JPG"
-  credit: "Bjørn Christian Tørrissen via Wikimedia Commons"
-  licence: "CC BY-SA 3.0"
+  url: "https://upload.wikimedia.org/wikipedia/commons/4/47/Proto_cuneiform_tablet_OIM_A02516.jpg"
+  credit: "Daderot (derivative work: Zunkir) via Wikimedia Commons"
+  licence: "CC BY-SA 4.0"
 thenNow:
   thenCaption: "Cuneiform, pressed into clay as wedge-shaped marks, is the earliest known writing system, first developed to write Sumerian in southern Mesopotamia."
   thenSvg: "img/scenes/writing-is-invented-then.svg"

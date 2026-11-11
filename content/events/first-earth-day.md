@@ -7,9 +7,9 @@ title: "First Earth Day"
 wiki: "Earth Day"
 emoji: "🌍"
 image:
-  url: "https://upload.wikimedia.org/wikipedia/commons/4/4d/Paul_Tinari_Officially_Launching_the_Canadian_First_Earth_Day_on_September_11%2C_1980.jpg"
-  credit: "Kingston Public Broadcasting via Wikimedia Commons"
-  licence: "CC0"
+  url: "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/81/Earth_Day_-_Enact_1970.jpg/960px-Earth_Day_-_Enact_1970.jpg"
+  credit: "University of Michigan School for Environment and Sustainability via Wikimedia Commons"
+  licence: "CC BY 2.0"
 sources:
   - type: "wikipedia"
     label: "Wikipedia: Earth Day"

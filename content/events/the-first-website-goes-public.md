@@ -7,9 +7,9 @@ title: "The first website goes public"
 wiki: "World Wide Web"
 emoji: "🕸️"
 image:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Chrome_on_Linux.png/960px-Chrome_on_Linux.png"
-  credit: "Liamd967 via Wikimedia Commons"
-  licence: "CC BY-SA 4.0"
+  url: "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b2/The_World_Wide_Web_project.png/960px-The_World_Wide_Web_project.png"
+  credit: "Tim Berners-Lee via Wikimedia Commons"
+  licence: "Public domain"
 thenNow:
   thenCaption: "The web technology was released outside CERN in early 1991 and to the whole Internet on 23 August 1991."
   thenSvg: "img/scenes/the-first-website-goes-public-then.svg"

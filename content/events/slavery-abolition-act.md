@@ -7,9 +7,9 @@ title: "Slavery Abolition Act"
 wiki: "Slavery Abolition Act 1833"
 emoji: "⛓️"
 image:
-  url: "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3c/Coat_of_Arms_of_the_United_Kingdom_%281816-1837%29.svg/960px-Coat_of_Arms_of_the_United_Kingdom_%281816-1837%29.svg.png"
-  credit: "Sodacan via Wikimedia Commons"
-  licence: "CC BY-SA 3.0"
+  url: "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1c/Slaves_on_a_British_plantation_in_the_West_Indies_receiving_news_of_their_emancipation_following_the_passage_of_the_Slavery_Abolition_Act_of_1833.jpg/960px-Slaves_on_a_British_plantation_in_the_West_Indies_receiving_news_of_their_emancipation_following_the_passage_of_the_Slavery_Abolition_Act_of_1833.jpg"
+  credit: "Unknown author via Wikimedia Commons"
+  licence: "Public domain"
 sources:
   - type: "wikipedia"
     label: "Wikipedia: Slavery Abolition Act 1833"

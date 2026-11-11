@@ -7,9 +7,9 @@ title: "The ard plough"
 wiki: "Plough"
 emoji: "🚜"
 image:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/04-09-12-Schaupfl%C3%BCgen-Fahrenwalde-RalfR-IMG_1232.jpg/960px-04-09-12-Schaupfl%C3%BCgen-Fahrenwalde-RalfR-IMG_1232.jpg"
-  credit: "Ralf Roletschek via Wikimedia Commons"
-  licence: "CC BY-SA 2.5"
+  url: "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/91/Maler_der_Grabkammer_des_Sennudem_001.jpg/960px-Maler_der_Grabkammer_des_Sennudem_001.jpg"
+  credit: "Painter of the burial chamber of Sennedjem via Wikimedia Commons"
+  licence: "Public domain"
 sources:
   - type: "wikipedia"
     label: "Wikipedia: Plough"

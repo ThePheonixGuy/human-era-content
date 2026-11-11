@@ -7,8 +7,8 @@ title: "Smallpox declared eradicated"
 wiki: "Smallpox"
 emoji: "💉"
 image:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Child_with_Smallpox_Bangladesh.jpg/960px-Child_with_Smallpox_Bangladesh.jpg"
-  credit: "Photo Credit: Content Providers(s): CDC/James Hicks via Wikimedia Commons"
+  url: "https://upload.wikimedia.org/wikipedia/commons/8/86/Smallpox_eradication_team.jpg"
+  credit: "CDC/Dr. John J. Witte via Wikimedia Commons"
   licence: "Public domain"
 sources:
   - type: "wikipedia"

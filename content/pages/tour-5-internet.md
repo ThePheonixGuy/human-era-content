@@ -6,4 +6,4 @@ order: 5
 eventId: "the-first-website-goes-public"
 spanYears: 60
 ---
-In 1991 the World Wide Web opened to the whole internet, and ordinary people could browse it.
+In 11,991 HE (1991 CE) the World Wide Web opened to the whole internet, and ordinary people could browse it.

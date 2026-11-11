@@ -7,8 +7,8 @@ title: "The wheel appears"
 wiki: "Wheel"
 emoji: "🛞"
 image:
-  url: "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/de/Landesmuseum_W%C3%BCrttemberg_Kelten_011.4.jpg/960px-Landesmuseum_W%C3%BCrttemberg_Kelten_011.4.jpg"
-  credit: "Bybbisch94, Christian Gebhardt via Wikimedia Commons"
+  url: "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/85/Ljubljana_Marshes_Wheel_with_axle_%28oldest_wooden_wheel_yet_discovered%29.jpg/960px-Ljubljana_Marshes_Wheel_with_axle_%28oldest_wooden_wheel_yet_discovered%29.jpg"
+  credit: "Petar Milošević via Wikimedia Commons"
   licence: "CC BY-SA 4.0"
 sources:
   - type: "wikipedia"

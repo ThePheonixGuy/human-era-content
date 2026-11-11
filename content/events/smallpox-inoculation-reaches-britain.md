@@ -7,8 +7,8 @@ title: "Smallpox inoculation reaches Britain"
 wiki: "Variolation"
 emoji: "💉"
 image:
-  url: "https://commons.wikimedia.org/wiki/Special:FilePath/Queens_of_Mysore_%28detail%29%2C_Thomas_Hickey%2C_1805.jpg?width=800"
-  credit: "Thomas Hickey, 1805 via Wikimedia Commons"
+  url: "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b2/Lady_Mary_Wortley_Montagu_with_her_son%2C_Edward_Wortley_Montagu%2C_and_attendants_by_Jean_Baptiste_Vanmour.jpg/960px-Lady_Mary_Wortley_Montagu_with_her_son%2C_Edward_Wortley_Montagu%2C_and_attendants_by_Jean_Baptiste_Vanmour.jpg"
+  credit: "Jean Baptiste Vanmour via Wikimedia Commons"
   licence: "Public domain"
 sources:
   - type: "wikipedia"

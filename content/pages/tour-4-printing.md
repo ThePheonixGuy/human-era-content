@@ -6,4 +6,4 @@ order: 4
 eventId: "gutenberg-s-printing-press"
 spanYears: 300
 ---
-By 1450, Johannes Gutenberg's movable-type press in Mainz was at work, and books got far easier to make.
+By 11,450 HE (1450 CE), Johannes Gutenberg's movable-type press in Mainz was at work, and books got far easier to make.

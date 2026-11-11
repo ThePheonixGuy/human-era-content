@@ -7,9 +7,9 @@ title: "Sailing ships on the Nile"
 wiki: "Sailing"
 emoji: "⛵"
 image:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Regattafeld_vor_Laboe.jpg/960px-Regattafeld_vor_Laboe.jpg"
-  credit: "RThiele via Wikimedia Commons"
-  licence: "CC BY-SA 3.0"
+  url: "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/97/Felucca_R02.jpg/960px-Felucca_R02.jpg"
+  credit: "Marc Ryckaert (MJJR) via Wikimedia Commons"
+  licence: "CC BY 3.0"
 sources:
   - type: "wikipedia"
     label: "Wikipedia: Sailing"

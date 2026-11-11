@@ -8,9 +8,9 @@ title: "Scramble for Africa"
 wiki: "Scramble for Africa"
 emoji: "🗺️"
 image:
-  url: "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e7/African-civilizations-map-pre-colonial.svg/960px-African-civilizations-map-pre-colonial.svg.png"
-  credit: "Jeff Israel (ZyMOS) via Wikimedia Commons"
-  licence: "CC BY-SA 3.0"
+  url: "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6b/Kongokonferenz.jpg/960px-Kongokonferenz.jpg"
+  credit: "Adalbert von Roessler via Wikimedia Commons"
+  licence: "Public domain"
 sources:
   - type: "wikipedia"
     label: "Wikipedia: Scramble for Africa"
